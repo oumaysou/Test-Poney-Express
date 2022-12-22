@@ -23,7 +23,7 @@
     "csv": "^5.3.2",
     "express": "^4.16.3",
     "fs": "0.0.1-security",
-    "jsonwebtoken": "^7.4.2",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "nodemailer": "^6.4.6",
     "pg": "^7.18.2",
